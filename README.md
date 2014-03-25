@@ -1,8 +1,8 @@
 sotein
 ======
 
-comercializacion de maquinas industriales de lavado y
-prestacion del servicio
+comercialización de maquinas industriales de lavado y
+prestación del servicio.
 
 
 Mariana Madrigal
